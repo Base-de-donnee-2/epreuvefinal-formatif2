@@ -18,7 +18,7 @@
 --
 -- Current Database: `bd2_examenfinalformatif`
 --
-
+DROP DATABASE IF EXISTS `bd2_examenfinalformatif`;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/ `bd2_examenfinalformatif` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
 USE `bd2_examenfinalformatif`;
