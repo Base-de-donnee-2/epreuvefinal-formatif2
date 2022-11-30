@@ -4,8 +4,8 @@ from dataclasses import dataclass
 mydb = mysql.connect(
   host="localhost",
   user="root",
-  password="mysql",
-  database="bd2_examenfinal"
+  password="*******",
+  database="bd2_examenfinalformatif"
 )
 
 @dataclass

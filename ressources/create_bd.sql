@@ -52,7 +52,7 @@ CREATE TABLE `question` (
 
 LOCK TABLES `question` WRITE;
 /*!40000 ALTER TABLE `question` DISABLE KEYS */;
-INSERT INTO `question` VALUES (8,1,1,'Quel est la capitale du Botswana',1,1,5),(9,1,2,'Nommez une des langues officielles du pays',1,2,5);
+INSERT INTO `question` VALUES (8,1,1,'Quelle est la capitale du Botswana',1,1,5),(9,1,2,'Nommez une des langues officielles du pays',1,2,5);
 /*!40000 ALTER TABLE `question` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
